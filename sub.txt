@@ -1,0 +1,2 @@
+vless://00000000-0000-0000-0000-000000000000@vless.yndrso.workers.dev:443?encryption=none&security=tls&sni=vless.yndrso.workers.dev&type=ws&host=vless.yndrso.workers.dev&path=%2F#WIFI
+vless://00000000-0000-0000-0000-000000000000@vless.yndrso.workers.dev:443?encryption=none&security=tls&sni=vless.yndrso.workers.dev&type=ws&host=vless.yndrso.workers.dev&path=%2F&mux=true&mux_concurrency=8#LTE
